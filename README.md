@@ -1,3 +1,6 @@
+> [!WARNING]
+> This repository has been archived, and so is not expected to receive more updates in future.
+
 # Virtual Reality Data Visualisation
 
 ![](Assets/Resources/Media/plane.jpg)
